@@ -1,8 +1,8 @@
 ---
 title: "Run Workflows and Pipelines on hop-server"
 date: 2024-05-18 00:00:00 +0000
-categories: [hop-server]
-tags: [hop-server]
+categories: [hop, hop-server]
+tags: [hop, hop-server]
 ---
 
 
