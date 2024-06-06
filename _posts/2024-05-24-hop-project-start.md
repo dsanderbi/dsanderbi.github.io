@@ -7,7 +7,7 @@ tags: [hop, hop-setup]
 
 ## Set up HOP and Create Your First Project
 
-I'm switching from PDI (Pentaho Data Integration) to Apache HOP, and I want to share how to set up your first project and configure environment options in HOP.
+I want to share how to set up your first project and configure environment options in HOP.
 
 ### Download and Set up
 
