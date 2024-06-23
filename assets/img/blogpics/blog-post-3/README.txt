@@ -1,0 +1,1 @@
+pdi-blog-post-samples has no pics!
