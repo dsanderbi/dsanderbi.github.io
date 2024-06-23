@@ -9,42 +9,92 @@
 
 <url>
   <loc>https://dsanderbi.github.io/</loc>
-  <lastmod>2024-05-18T16:43:31+00:00</lastmod>
+  <lastmod>2024-06-23T12:23:41+00:00</lastmod>
   <priority>1.00</priority>
 </url>
 <url>
   <loc>https://dsanderbi.github.io/categories/</loc>
-  <lastmod>2024-05-18T16:43:31+00:00</lastmod>
+  <lastmod>2024-06-23T12:23:41+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://dsanderbi.github.io/tags/</loc>
-  <lastmod>2024-05-18T16:43:31+00:00</lastmod>
+  <lastmod>2024-06-23T12:23:41+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://dsanderbi.github.io/archives/</loc>
-  <lastmod>2024-05-18T16:43:31+00:00</lastmod>
+  <lastmod>2024-06-23T12:23:41+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://dsanderbi.github.io/about/</loc>
-  <lastmod>2024-05-18T16:43:31+00:00</lastmod>
+  <lastmod>2024-06-23T12:23:41+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://dsanderbi.github.io/posts/project-example/</loc>
+  <lastmod>2024-06-23T12:23:41+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://dsanderbi.github.io/posts/hop-project-start/</loc>
+  <lastmod>2024-06-23T12:23:41+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://dsanderbi.github.io/posts/hop-server/</loc>
-  <lastmod>2024-05-18T16:43:31+00:00</lastmod>
+  <lastmod>2024-06-23T12:23:41+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://dsanderbi.github.io/tags/hop/</loc>
+  <lastmod>2024-06-23T12:23:41+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://dsanderbi.github.io/tags/hop-server/</loc>
-  <lastmod>2024-05-18T16:43:31+00:00</lastmod>
+  <lastmod>2024-06-23T12:23:41+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
+  <loc>https://dsanderbi.github.io/tags/hop-setup/</loc>
+  <lastmod>2024-06-23T12:23:41+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://dsanderbi.github.io/tags/pdi-project-management/</loc>
+  <lastmod>2024-06-23T12:23:41+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://dsanderbi.github.io/tags/pdi/</loc>
+  <lastmod>2024-06-23T12:23:41+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://dsanderbi.github.io/categories/hop/</loc>
+  <lastmod>2024-06-23T12:23:41+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
   <loc>https://dsanderbi.github.io/categories/hop-server/</loc>
-  <lastmod>2024-05-18T16:43:31+00:00</lastmod>
+  <lastmod>2024-06-23T12:23:41+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://dsanderbi.github.io/categories/hop-setup/</loc>
+  <lastmod>2024-06-23T12:23:41+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://dsanderbi.github.io/categories/pdi/</loc>
+  <lastmod>2024-06-23T12:23:41+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://dsanderbi.github.io/categories/pdi-project-management/</loc>
+  <lastmod>2024-06-23T12:23:41+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 
